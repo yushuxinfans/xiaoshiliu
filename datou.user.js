@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name datou
 // @namespace DaTouTools
-// @version 0.0.2
+// @version 0.0.3
 // @author yushuxinfans
 // @match *://www.iqiyi.com/h5act/generalVotePlat.html*
 // @match *://m.iqiyi.com/user.html*
